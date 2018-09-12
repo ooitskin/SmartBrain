@@ -1,6 +1,6 @@
 # SmartBrain
 
-<a href='smart-brainz.surge.sh'> Smart Brain Demo </a>
+<a href='http://www.smart-brainz.surge.sh'> Smart Brain Demo </a>
 
 To run on your local machine,
 
